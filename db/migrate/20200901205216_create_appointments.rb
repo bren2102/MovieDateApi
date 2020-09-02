@@ -1,10 +1,9 @@
 class CreateAppointments < ActiveRecord::Migration[6.0]
   def change
     create_table :appointments do |t|
-      t.integer :id
-      t.integer :userId
-      t.integer :movieId
-      t.integer :cityId
+      t.integer :user_id
+      t.integer :movie_id
+      t.integer :city_id
       t.datetime :date
 
       t.timestamps
