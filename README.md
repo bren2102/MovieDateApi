@@ -76,15 +76,11 @@ Create movies
 - Twitter: [@BrendaYucra2](https://twitter.com/BrendaYucra)
 - Linkedin: [Brenda Yucra](https://www.linkedin.com/in/brenda-yucra/)
 
-## Credits
-
-Thanks to [Gregoire Vella](https://www.behance.net/gregoirevella) and other on Behance for her awesome design work. I based my work on [this design](https://www.behance.net/gallery/14286087/Twitter-Redesign-of-UI-details).
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/bren2102/MovieDateApi/issues).
 
 ## Show your support
 
