@@ -14,7 +14,7 @@ class AppointmentsController < ApplicationController
   end
 
   private
-  
+
   def search_appointment
     params.permit(:username)
   end
